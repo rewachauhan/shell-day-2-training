@@ -1,0 +1,1 @@
+# shell-day-2-training
